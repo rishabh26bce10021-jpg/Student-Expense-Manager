@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "date": "23-09-2026",
+        "amount": 200.0,
+        "category": "Education",
+        "description": "Notebook"
+    }
+]
