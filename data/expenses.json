@@ -14,10 +14,10 @@
         "description": "football"
     },
     {
-        "id": 3,
+        "id": 4,
         "date": "31-10-2008",
-        "amount": 40000.0,
-        "category": "book",
-        "description": "H.G.Hills"
+        "amount": 400.0,
+        "category": "food",
+        "description": "pizza"
     }
 ]
