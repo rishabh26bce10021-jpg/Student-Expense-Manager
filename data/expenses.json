@@ -5,5 +5,19 @@
         "amount": 200.0,
         "category": "Education",
         "description": "Notebook"
+    },
+    {
+        "id": 2,
+        "date": "22-09-2024",
+        "amount": 400.0,
+        "category": "sports",
+        "description": "football"
+    },
+    {
+        "id": 3,
+        "date": "31-10-2008",
+        "amount": 40000.0,
+        "category": "book",
+        "description": "H.G.Hills"
     }
 ]
