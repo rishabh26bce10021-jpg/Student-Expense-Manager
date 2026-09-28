@@ -2,100 +2,133 @@
 
 ## 1. Problem Statement
 
-Students often have difficulty tracking their daily expenses and understanding
-where their money is being spent. Maintaining expenses manually can be
-time-consuming and may lead to missing or incorrect records.
+Students find it hard to track their daily expenses and where their
 
-The Student Expense Manager is a Python-based application that provides a simple
-way for students to record, organize, search, edit, delete, and analyze their
+money goes. Keeping expenses manually can be time-consuming and
+
+error-prone.
+
+The Student Expense Manager is a Python-based application that helps
+
+students record, manage, search, edit, delete, and analyze their
+
 expenses.
 
 ---
 
 ## 2. Scope of the Project
 
-The project focuses on managing personal expenses of students.
+The project revolves around managing students' personal expenses.
 
-The application allows users to:
+The application enables the users to:
 
-- Add new expenses.
-- View all recorded expenses.
-- Search expenses by category, date, or amount.
-- Edit existing expense records.
-- Delete expense records.
-- Calculate total spending.
-- Calculate average spending.
-- Find the highest and lowest expenses.
-- Generate category-wise spending reports.
-- Store expense data using JSON.
+- Add expenses
 
-The current project is designed as a Python console application.
+- View expenses
+
+- Search expenses
+
+- Edit expenses
+
+- Delete expenses
+
+- Calculate total spending
+
+- Calculate averages spending
+
+- Calculate the highest expense
+
+- Calculate the lowest expense
+
+- Generate category-wise spending reports
+
+- Store expenses in the JSON file
+
+The current project is a Python console application.
 
 ---
 
 ## 3. Target Users
 
-The primary target users are:
+The primary target users for this application are:
 
 - College students
+
 - University students
-- Students who want to track daily spending
-- Students who want to understand their spending patterns
+
+- Students who want to track their daily expense
+
+- Students who want to know where their money goes
 
 ---
 
 ## 4. High-Level Features
 
-### Expense Management
-Users can add, view, edit, and delete expense records.
+### 1. Expense Management
 
-### Expense Search
-Users can search expenses using:
+It allows the users to add, view, edit and delete their expense records.
+
+### 2. Expense Search
+
+The users can search for their expense records by:
 
 - Category
+
 - Date
+
 - Amount
 
-### Expense Analysis
-The system provides:
+### 3. Expense Analysis
+
+The application provides the following information about the
+
+expenses:
 
 - Total spending
+
 - Average spending
+
 - Highest expense
+
 - Lowest expense
+
 - Category-wise spending
 
-### Data Storage
-Expense records are stored in a JSON file so that data can be retained
-between program executions.
+### 4. Data Storage
 
-### Input Validation
-The system validates:
+The application allows the users to store their expense records in
 
-- Expense amount
-- Date format
+JSON files so that the records can be accessed even after the program's
+
+execution.
+
+### 5. Input Validation
+
+The application validates the following:
+
+- Amount
+
+- Date
+
 - Category
+
 - Description
+
 - Expense ID
 
-### Testing
-The project includes automated validation tests for important application
-functions.
+### 6. Testing
+
+The project has automated test cases that test the application's
+
+most crucial features.
 
 ---
 
-## 5. Technology Used
-
-- Python
-- JSON
-- Git
-- GitHub
-- VS Code
-
----
 
 ## 6. Project Goal
 
-The goal of the Student Expense Manager is to provide students with a simple,
-structured, and reliable way to manage their daily expenses while applying
-Python programming concepts in a real-world project.
+The Student Expense Manager goal is to provide the students with an
+
+organized and efficient way to manage their daily expenses while
+
+learning Python programming concepts.
