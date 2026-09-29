@@ -84,7 +84,8 @@ Student-Expense-Manager/
 ├── main.py
 ├── menu.py
 ├── expense.py
-├── expense_manager.py
+├── expense_manager.py<img width="945" height="685" alt="Screenshot 2026-09-23 151048" src="https://github.com/user-attachments/assets/ca368ecb-ecb3-4bbe-85bd-ad207e78d175" />
+
 ├── reports.py
 ├── validation.py
 ├── storage.py
@@ -99,3 +100,28 @@ Student-Expense-Manager/
 ├── .gitignore
 ├── README.md
 └── statement.md
+
+```
+## Screnshot 
+
+<img width="1917" height="1025" alt="Screenshot 2026-09-29 123512" src="https://github.com/user-attachments/assets/09f76e04-346f-4a3a-9491-90630c7ee0cd" />
+
+
+<img width="365" height="262" alt="Screenshot 2026-09-27 092409" src="https://github.com/user-attachments/assets/61073f37-e920-4e18-af22-8a5dc199e1ec" />
+
+<img width="366" height="216" alt="Screenshot 2026-09-27 092429" src="https://github.com/user-attachments/assets/bd5fff9a-e621-4230-8e3e-06875e16b9e8" />
+
+<img width="352" height="737" alt="Screenshot 2026-09-27 092519" src="https://github.com/user-attachments/assets/cd3a8e1e-0b60-4baf-bae6-081124b88305" />
+
+<img width="357" height="352" alt="Screenshot 2026-09-27 092609" src="https://github.com/user-attachments/assets/a6ead0d1-0d2a-4e5c-9a38-24163271ae21" />
+
+<img width="361" height="242" alt="Screenshot 2026-09-27 092626" src="https://github.com/user-attachments/assets/b405ee8f-63df-4b0e-af86-ba12fdb085df" />
+
+<img width="350" height="147" alt="Screenshot 2026-09-27 092931" src="https://github.com/user-attachments/assets/f688e3b5-57cf-4afd-b4a7-9c6999f9178a" />
+
+<img width="362" height="471" alt="Screenshot 2026-09-27 092644" src="https://github.com/user-attachments/assets/c8373c04-da4c-422f-b550-2529eeead0d3" />
+
+<img width="662" height="103" alt="Screenshot 2026-09-27 092702" src="https://github.com/user-attachments/assets/6797da87-a281-464c-9618-508d5391a8ea" />
+
+<img width="1321" height="193" alt="Screenshot 2026-09-27 092720" src="https://github.com/user-attachments/assets/18882f21-f048-4e6a-af2a-518addb3143b" />
+
