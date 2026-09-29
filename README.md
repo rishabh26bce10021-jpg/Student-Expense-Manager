@@ -151,3 +151,70 @@ Student-Expense-Manager/
 
 •<img width="1321" height="193" alt="Screenshot 2026-09-27 092720" src="https://github.com/user-attachments/assets/18882f21-f048-4e6a-af2a-518addb3143b" />
 
+## Instruction to run
+
+### Prerequisites
+
+- Python 3.8+
+
+- Git or download the repo as a zip file
+
+- (Optional) VS Code
+
+### Setup
+
+1. Clone the repo:
+
+```bash
+
+git clone https://github.com/rishabh26bce10021-jpg/Student-Expense-Manager.git
+
+```
+
+2. Navigate to the project directory:
+
+```bash
+
+cd Student-Expense-Manager
+
+```
+
+If you downloaded the repo as a zip file, extract it and navigate to the extracted directory
+
+3. Run the app:
+
+```bash
+
+python main.py
+
+```
+
+If you are on Windows, you can also run the following command:
+
+```bash
+
+py main.py
+
+```
+
+4. Follow the menu prompts to add/view/edit/delete/search and analyze expenses
+
+The expenses are stored in a json file and are persistent across app restarts.
+
+### Running the tests
+
+Install pytest if you don't have it:
+
+```bash
+
+python -m pip install pytest
+
+```
+
+Run the tests:
+
+```bash
+
+python -m pytest tests/test_expense.py
+
+```
