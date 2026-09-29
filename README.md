@@ -44,7 +44,25 @@ https://github.com/rishabh26bce10021-jpg/Student-Expense-Manager.git
  
  you can also clone the repository if you already use Git.
 
- ## Make Project in VS Code 
+## Installation
+
+1. Clone the repository (or extract ZIP)
+2. Install dependencies: `pip install -r requirements.txt` (if applicable)
+3. Run the application: `python main.py`
+
+## Testing
+
+Run tests using: `pytest tests/test_expense.py`
+
+## File Descriptions
+
+- `main.py` - Entry point of the application
+- `expense_manager.py` - Core expense management logic
+- `storage.py` - JSON data handling
+- ...etc
+
+
+## Make Project in VS Code 
 After extracting the project:
 
  1. Open the project folder.
